@@ -1,4 +1,4 @@
-7
+8
 Side Scrolling Video Game
 Chat Client
 Mobile App
@@ -6,3 +6,4 @@ Web App
 Twitter App
 Mobile Game
 Organizer
+Digital Scavenger Hunt
